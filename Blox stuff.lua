@@ -1,4 +1,4 @@
--- This possibly is a script that manipulates terrain as it performs various functions related to handling mouse interactions, terrain checking, and model manipulation. It includes functions for detecting plane intersections, retrieving terrain cell information for mouse hits, rotating and aligning models, and managing parts in regions. It also handles interaction with seats in models, checks for space above characters, and it assist with stamping models onto the terrain.
+--- Hmmm
 local t = {}
 
 function waitForChild(instance, name)
